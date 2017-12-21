@@ -1,5 +1,5 @@
 ---
-title: Smart City Strategic Roadmap
+title: Smart City Strategic Plan
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/smart-city/"
 position: 7
