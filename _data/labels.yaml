@@ -1,0 +1,28 @@
+intro_markdown: An official Louisville Metro Government website
+site_title: Office of Civic Innovation - Projects
+translate: Translate
+home: Home
+header_projects_button_text: Work with us
+header_projects_button_url: https://louisvillemetro.github.io/OPI2-Projects/
+last_revision_prefix: Updated
+footer_headline: Interested in working with us?
+footer_lede: We work with internal and external partners to evolve Louisville into the next generation smart city.
+footer_button_text: Get in touch
+footer_button_path: /contact
+footer_credits: Office of Civic Innovation
+site_nav:
+  - label: Home
+    path: /
+  - label: Current Projects
+    path: current
+  - label: Past Projects
+    path: past
+  - label: Contact
+    path: /contact/
+social_icons:
+  medium_path: https://medium.com/louisville-metro-opi2
+  medium_title: Read Medium Posts by @OPI2Lou
+  github_path: https://github.com/LouisvilleMetro
+  github_title: Check out the Louisville Metro Government's Open Source projects
+  twitter_path: https://twitter.com/OPI2Lou
+  twitter_title: Read Tweets by @OPI2Lou
