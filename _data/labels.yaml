@@ -12,7 +12,7 @@ footer_button_path: /contact
 footer_credits: Office of Civic Innovation
 site_nav:
   - label: Home
-    path: OPI2-Projects/
+    path: /
   - label: Current Projects
     path: current
   - label: Past Projects
