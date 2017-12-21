@@ -2,7 +2,7 @@
 title: Digital Inclusion
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/digital-inclusion/"
-position: 7
+position: 2
 project_name: Digital Inclusion
 subtitle: with Louisville Metro residents
 excerpt: Our digital inclusion efforts focus on three areas of work. Improving connectivity, teaching digital skills and providing hardware.

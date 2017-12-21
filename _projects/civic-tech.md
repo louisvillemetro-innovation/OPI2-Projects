@@ -2,7 +2,7 @@
 title: Civic Technology
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/civic-tech/"
-position: 7
+position: 3
 project_name: Civic Technology
 subtitle: with Department of Information Technology
 excerpt: In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.

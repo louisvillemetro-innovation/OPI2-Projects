@@ -2,7 +2,7 @@
 title: Data Governance
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/data-governance/"
-position: 7
+position: 4
 project_name: Data Governance
 subtitle: with Department of Information Technology
 excerpt: We do analysis on all kinds of data for different departments, including traffic data, FCC data, HR, the mayor's office, LouieStat, physical infrastructure, Metro owned assets, budget and finance, and 311 service calls.
