@@ -6,7 +6,7 @@ position: 7
 project_name: Civic Technology
 subtitle: with Department of Information Technology
 excerpt: In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
-image_path: "/assets/img/projects/smart-city/smart-city-goals.png"
+image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/civic-tech/about/overview"
@@ -28,7 +28,7 @@ Internal
 
 o Waze Data – Utilizing data from our Waze CCP Partnership across multiple internal agencies to create new tools and uses cases for Waze traffic data.
 
-o Analog Hackathon – An accessible, trojan horse hackathon training tool we utilize to make the concept of a hackathon accessible and approachable to non-technical participants. 
+o Analog Hackathon – An accessible, trojan horse hackathon training tool we utilize to make the concept of a hackathon accessible and approachable to non-technical participants.
 
 https://insiderlouisville.com/metro/vision/join-the-iot-hackathon/
 https://insiderlouisville.com/business/technology-business/hackathon-works-to-bring-new-public-safety-tools-to-louisville/

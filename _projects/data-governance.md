@@ -6,7 +6,7 @@ position: 7
 project_name: Data Governance
 subtitle: with Department of Information Technology
 excerpt: We do analysis on all kinds of data for different departments, including traffic data, FCC data, HR, the mayor's office, LouieStat, physical infrastructure, Metro owned assets, budget and finance, and 311 service calls.
-image_path: "/assets/img/projects/smart-city/smart-city-goals.png"
+image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/data-governance/about/overview"

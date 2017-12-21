@@ -6,7 +6,7 @@ position: 7
 project_name: Digital Inclusion
 subtitle: with Louisville Metro residents
 excerpt: Our digital inclusion efforts focus on three areas of work. Improving connectivity, teaching digital skills and providing hardware.
-image_path: "/assets/img/projects/smart-city/smart-city-goals.png"
+image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/digital-inclusion/about/overview"
