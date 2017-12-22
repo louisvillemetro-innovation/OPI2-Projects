@@ -8,6 +8,50 @@ collections:
   projects:
     title: Projects
     output: true
+    permalink: "/:collection/:path/"
   uploads:
     title: Uploads
     output: true
+defaults:
+ scope:
+    path: "/"
+    type: projects
+ values:
+    layout: sidebar-page
+    nav_from_collection: projects
+    image_path: "/assets/img/projects/project-tile-placeholder.jpg"
+email: ipoall@louisvilleky.gov
+description: 'The Louisville Metro Innovation Team was established in 2011 as part of the pioneer cohort of Bloomberg innovation teams. Some of our initiatives include the CNET Smart Apartment, which allows us to test how the Smart City and the Smart Home will interact, Waze Data Partnership, which allows us to understand the real-time and historical traffic issues in our community, and Digital Inclusion, which seeks to increase equity in regards to access to technology and the internet.'
+baseurl:
+url: http://projects.lsvll.io
+twitter:
+  username: OPI2Lou
+medium_url: https://medium.com/louisville-metro-opi2
+zilker_theme: light
+markdown: kramdown
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-redirect-from
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+sass:
+  sass_dir: assets/stylesheets/ 
+permalink: pretty
+exclude:
+- node_modules
+- gulpfile.js
+- Gemfile
+- Gemfile.lock
+- npm-debug.log
+- "/screenshots"
+- "/assets/stylesheets/bourbon"
+- "/assets/stylesheets/bourbon-neat"
+- "/assets/uswds/stylesheets"
+- "/assets/uswds/js"
+- ".bundle"
+- "/vendor"
+- _bourbon
+- _bourbon-neat
+- _uswds
