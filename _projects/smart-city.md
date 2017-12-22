@@ -9,5 +9,5 @@ excerpt: In order to prepare for Louisville’s Smart City future, we are making
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
-redirect_to: "/projects/smart-city/about/overview"
+redirect_to: "/projects/smart-city/project-overview"
 ---
