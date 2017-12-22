@@ -1,14 +1,13 @@
 ---
-title: Smart City
-position: 0
+title: Food Insecurity
 layout: sidebar-page
 ---
 
 ## Introduction
 
-No other city is as hyper-focused on exploring the intersection between the Smart City and the Smart Home. Residents are increasingly relying on technology platforms to receive information and services and expect to access city services that are human-centered and friction-free. In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
+We've been working with several local partners in the food industry in the Louisville Metro area since March to coordinate efforts and identify issues around food accessibility and security for our citizens. We have found that as food security is a systemic issue, a single solution to attempt to affect the problem would have negligible impact. We have amassed a large network of non-profit, for-profit and community stakeholders to share knowledge of current efforts, and provide program coordination communications.
 
-The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize government data (preferably Open Data) and put it in useful contextual applications for our citizens.
+We have a hackathon scheduled right now for mid-February with a few local partners, Develop Louisville, Compassionate Louisville, Metro United Way, Humana, Dare to Care, Brown Forman and the Community Foundation, in addition to representation from U of L, Bellarmine and of course our local Code for America non-profit chapter the Civic Data Alliance. This will allow us to create a myriad of approaches to address food insecurity in our community.
 
 ## Inventory of projects
 

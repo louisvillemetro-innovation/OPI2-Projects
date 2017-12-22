@@ -1,14 +1,28 @@
 ---
-title: Smart City
+title: Civic Technology
 position: 0
 layout: sidebar-page
 ---
 
 ## Introduction
 
-No other city is as hyper-focused on exploring the intersection between the Smart City and the Smart Home. Residents are increasingly relying on technology platforms to receive information and services and expect to access city services that are human-centered and friction-free. In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
+The Office of Performance Improvement & Innovation views hackathons as a key component of our strategy to not only institutionalize innovation, but to connect with our citizens, the tech community and any of our project stakeholders. It is a critical piece of collaborative strategy in the generation of civic engagement, relationship building and problem solving. We have an open office hack night, once a month with our local Code for America chapter, the non-profit Civic Data Alliance, in addition to a quarterly capstone hackathon that encapsulates all of the previous quarter focus areas. This is in addition to nation-wide events, such as the National Civic Data of Hacking.
 
-The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize government data (preferably Open Data) and put it in useful contextual applications for our citizens.
+### External
+
+- Civic Data Alliance (Code for America) Partnership / HacktheVille
+
+- National Civic Data of Hacking
+
+- Smart Home / IOT Hackathon @ GEC
+
+- Hack for Change Food Insecurity – Upcoming
+
+### Internal
+
+- Waze Data – Utilizing data from our Waze CCP Partnership across multiple internal agencies to create new tools and uses cases for Waze traffic data.
+
+- Analog Hackathon – An accessible, trojan horse hackathon training tool we utilize to make the concept of a hackathon accessible and approachable to non-technical participants.
 
 ## Inventory of projects
 
