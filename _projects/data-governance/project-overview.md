@@ -6,9 +6,23 @@ layout: sidebar-page
 
 ## Introduction
 
-No other city is as hyper-focused on exploring the intersection between the Smart City and the Smart Home. Residents are increasingly relying on technology platforms to receive information and services and expect to access city services that are human-centered and friction-free. In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
+Open Data 
 
-The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize government data (preferably Open Data) and put it in useful contextual applications for our citizens.
+Managing the open data program and getting more data out the public, and encouraging and tracking its use with a KPI.   
+
+Data Governance
+
+Curriculum, Training, and Presentations for 50+ cross departmental employees that deal with data on topics around the data lifecycle, quality, collection, storage, metadata, visualization, business intelligence, and partner collaboration including data sharing and open data.
+
+Badges – Employees can earn Badges by doing breakthrough innovation, continuous improvement, and daily work.  There are digital and physical rewards and ways to showcase your accomplishments.  The goal is to encourage Metro employees across all agencies to learn new skills and to be better equipped to serve our citizens.
+
+Data Policy – Working groups to define and improve metro data policy, including open data, street addresses, data inventories, data standards, race/nationality, and coordinating with outside agencies.
+
+Inclusive Policy Brief – Gender Data Collection recommendations to ensure we collect data appropriately and consistently across Metro.
+
+Data Analysis and Aggregation
+
+We do analysis on all kinds of data for different departments, including traffic data, FCC data, HR, the mayor's office, LouieStat, physical infrastructure, Metro owned assets, budget and finance, and 311 service calls. 
 
 ## Inventory of projects
 
