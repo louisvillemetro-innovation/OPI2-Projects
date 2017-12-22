@@ -5,13 +5,12 @@ permalink: "/projects/smart-apartment/"
 position: 7
 project_name: Smart Apartment
 subtitle: with Louisville Metro residents
-excerpt:
+excerpt: 
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/smart-apartment/about/overview"
 ---
-
 
 The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize government data (preferably Open Data) and put it in useful contextual applications for our citizens.
 

@@ -5,9 +5,10 @@ permalink: "/projects/innovation-advisory-council/"
 position: 6
 project_name: Innovation Advisory Council
 subtitle: with Louisville Metro residents
-excerpt:
+excerpt: 
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/innovation-advisory-council/about/overview"
 ---
+
