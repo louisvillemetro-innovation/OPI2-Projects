@@ -29,7 +29,7 @@ twitter:
 medium_url: https://medium.com/louisville-metro-opi2
 zilker_theme: light
 markdown: kramdown
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from

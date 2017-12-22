@@ -1,5 +1,5 @@
 [
-{% assign recent_project_pages = site.projects | where: "active", true |  sort: "position" | %}
+{% assign recent_project_pages = site.projects | where: "active", true | sort: "position" %}
   {% for project in recent_project_pages %}
     {
       "title": "{{ project.title }}",
