@@ -1,7 +1,7 @@
 ---
 title: Smart City Plan
 date: 2017-12-22 15:00:00 Z
-collection: 
+collection: Smart City Plan
 layout: full-page
 ---
 
