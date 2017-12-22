@@ -1,6 +1,7 @@
 ---
 title: Smart City Plan
 date: 2017-12-22 14:34:00 Z
+position: 0
 layout: default
 ---
 
