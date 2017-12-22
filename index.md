@@ -8,4 +8,3 @@ secondary_lede_markdown: The Office of Civic Innovation provides an opportunity 
 current_project_tiles_headline: Current Projects
 past_project_tiles_headline: Past Projects
 ---
-
