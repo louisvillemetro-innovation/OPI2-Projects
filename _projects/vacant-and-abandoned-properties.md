@@ -7,8 +7,8 @@ project_name: Vacant & Abandoned Properties
 subtitle: with VAPStat
 excerpt: We worked with the VAPStat office to research data around
   vacant and abandonded properties to prototype new solutions.
-image_path: "/assets/img/projects/project-tile-placeholder.jpg"
+image_path: "/assets/img/projects/vacant-and-abandoned-properties/vap.jpg"
 active: false
 layout: redirect
-redirect_to: "/projects/vacant-and-abandoned-properties/about/overview"
+redirect_to: "/projects/vacant-and-abandoned-properties/project-overview"
 ---
