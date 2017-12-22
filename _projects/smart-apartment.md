@@ -4,9 +4,9 @@ date: 2017-08-28 00:00:00 Z
 permalink: "/projects/smart-apartment/"
 position: 7
 project_name: Smart Apartment
-subtitle: with Louisville Metro residents
+subtitle: P3 Partnership with CNET
 excerpt:
-image_path: "/assets/img/projects/project-tile-placeholder.jpg"
+image_path: "/assets/img/projects/smart-apartment/rentersguide20.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/smart-apartment/project-overview"
