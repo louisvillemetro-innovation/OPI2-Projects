@@ -9,7 +9,7 @@ excerpt: Our digital inclusion efforts focus on three areas of work. Improving c
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
-redirect_to: "/projects/digital-inclusion/about/overview"
+redirect_to: "/projects/digital-inclusion/project-overview"
 ---
 
 Our digital inclusion efforts focus on three areas of work: improving connectivity, teaching digital skills and providing hardware. We leverage a number of programs and relationship to further our commitment to decreasing digital inequity. This will enable us to improve the quality of life for our citizens by providing them with the digital tools and skills they need for success.

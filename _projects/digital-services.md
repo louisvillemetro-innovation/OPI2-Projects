@@ -9,5 +9,5 @@ excerpt: Our digital services work is open sourced, community driven and cutting
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
-redirect_to: "/projects/digital-services/about/overview"
+redirect_to: "/projects/digital-services/project-overview"
 ---

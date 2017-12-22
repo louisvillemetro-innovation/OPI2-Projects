@@ -9,5 +9,5 @@ excerpt:
 image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 active: true
 layout: redirect
-redirect_to: "/projects/innovation-advisory-council/about/overview"
+redirect_to: "/projects/innovation-advisory-council/project-overview"
 ---
