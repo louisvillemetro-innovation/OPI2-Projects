@@ -1,6 +1,6 @@
 ---
 title: Smart City Strategic Plan
-date: 2017-08-28 00:00:00 Z
+date: 2017-12-23 00:00:00 Z
 permalink: "/projects/smart-city/"
 position: 9
 project_name: Smart City Strategic Plan
