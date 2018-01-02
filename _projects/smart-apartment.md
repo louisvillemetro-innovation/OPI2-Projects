@@ -5,7 +5,7 @@ permalink: "/projects/smart-apartment/"
 position: 7
 project_name: Smart Apartment
 subtitle: P3 Partnership with CNET
-excerpt:
+excerpt: "The future of the Smart City is constantly being redefined, and by extension our relationship with citizens."
 image_path: "/assets/img/projects/smart-apartment/rentersguide20.jpg"
 active: true
 layout: redirect
