@@ -1,5 +1,5 @@
 ---
-title: Smart City
+title: Data Governance
 position: 0
 layout: sidebar-page
 ---
