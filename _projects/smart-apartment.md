@@ -8,8 +8,7 @@ subtitle: P3 Partnership with CNET
 excerpt: "The future of the Smart City is constantly being redefined, and by extension our relationship with citizens."
 image_path: "/assets/img/projects/smart-apartment/rentersguide20.jpg"
 active: true
-layout: redirect
-redirect_to: "/projects/smart-apartment/project-overview"
+layout: default
 ---
 
 
