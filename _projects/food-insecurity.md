@@ -8,6 +8,5 @@ subtitle: with Louisville Metro residents
 excerpt: Food insecurity is a problem that should not exist in the 21st Century.
 image_path: "/assets/img/projects/food-insecurity/hunger.jpg"
 active: true
-layout: redirect
-redirect_to: "/projects/food-insecurity/project-overview"
+layout: default
 ---

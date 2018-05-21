@@ -8,6 +8,5 @@ subtitle: with Louisville Metro residents
 excerpt: Technology advisory group
 image_path: "/assets/img/projects/innovation-advisory-council/745front.jpg"
 active: true
-layout: redirect
-redirect_to: "/projects/innovation-advisory-council/project-overview"
+layout: default
 ---
