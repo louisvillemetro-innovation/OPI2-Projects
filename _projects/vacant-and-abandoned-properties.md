@@ -9,14 +9,5 @@ excerpt: We worked with the VAPStat office to research data around
   vacant and abandonded properties to prototype new solutions.
 image_path: "/assets/img/projects/vacant-and-abandoned-properties/vap.jpg"
 active: false
-<<<<<<< Updated upstream
-layout: default
-=======
-<<<<<<< Updated upstream
-layout: redirect
-redirect_to: "/projects/vacant-and-abandoned-properties/project-overview"
-=======
 layout: full-page
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 ---

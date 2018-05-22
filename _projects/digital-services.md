@@ -8,14 +8,5 @@ subtitle: with Louisville Metro residents
 excerpt: Our digital services work is open sourced, community driven and cutting edge.
 image_path: "/assets/img/projects/digital-services/digital-services.jpg"
 active: true
-<<<<<<< Updated upstream
-layout: default
-=======
-<<<<<<< Updated upstream
-layout: redirect
-redirect_to: "/projects/digital-services/project-overview"
-=======
 layout: full-page
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 ---
