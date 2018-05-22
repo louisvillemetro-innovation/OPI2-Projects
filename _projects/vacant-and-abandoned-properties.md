@@ -6,7 +6,7 @@ position: 8
 project_name: Vacant & Abandoned Properties
 subtitle: with VAPStat
 excerpt: We worked with the VAPStat office to research data around
-  vacant and abandonded properties to prototype new solutions.
+  vacant and abandoned properties to prototype new solutions.
 image_path: "/assets/img/projects/vacant-and-abandoned-properties/vap.jpg"
 active: false
 layout: full-page
