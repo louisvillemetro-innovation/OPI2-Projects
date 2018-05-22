@@ -6,7 +6,7 @@ position: 1
 project_name: Smart Mobility
 subtitle: with Louisville Metro residents
 excerpt: Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades.
-image_path: "/assets/img/projects/digital-services/digital-services.jpg"
+image_path: "/assets/img/projects/smart-mobility/smart-mobility.jpg"
 active: true
 layout: full-page
 ---
