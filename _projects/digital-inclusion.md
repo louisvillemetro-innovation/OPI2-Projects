@@ -10,9 +10,6 @@ image_path: "/assets/img/projects/digital-inclusion/digital-inclusion.jpg"
 active: true
 layout: full-page
 ---
-
-# Digital Inclusion
-
 Today, participation in society relies on the ability to access and use the internet effectively.Whether applying for a job, doing homework, or starting a business, all our residents need digital skills, tools, and connectivity to fully participate in modern society. These factors are increasingly becoming the choke points that prevent thousands of our citizens from adapting to and accessing the benefits of a knowledge-driven, innovative economy.
 
 To promote digital inclusion in Louisville, Louisville Metro Government and over 10 partnering agencies, including the Louisville Metro Housing Authority, KentuckianaWorks and Louisville Free Public Library, have been working diligently to increase the equity of access to the internet and technology across the city. In May 2017, we released Louisville’s [Digital Inclusion Plan](https://digitalinclusion.louisvilleky.gov), a blueprint for substantially decreasing the digital divide in Louisville.

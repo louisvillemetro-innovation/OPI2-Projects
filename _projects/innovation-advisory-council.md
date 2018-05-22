@@ -2,7 +2,7 @@
 title: Innovation Advisory Council
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/innovation-advisory-council/"
-position: 6
+position: 0
 project_name: Innovation Advisory Council
 subtitle: with Louisville Metro residents
 excerpt: Technology advisory group
