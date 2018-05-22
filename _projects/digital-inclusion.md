@@ -66,7 +66,8 @@ LFIT is the Louisville Metro Information Technology project and is a partnership
 ### ConnectHome USA
 
 ![Image of ConnectHome USA project](/assets/img/projects/digital-inclusion/digital-inclusion.jpg)
-With the Louisville Metro Housing Authority
+
+ConnectHomeUSA (formerly ConnectHome Nation) is a movement to bridge the digital divide for HUD-assisted housing residents in the United States under the leadership of national nonprofit EveryoneOn. By helping residents in participating communities to get connected at home and providing access to digital literacy and educational content, we aim to make public housing a platform for change. ConnectHomeUSA creates a platform for community leaders, local governments, nonprofit organizations, and private industry to join together and produce locally-tailored solutions for narrowing the digital divide. Through these stakeholders’ specific commitments to provide free or low-cost broadband access, devices, and digital literacy training, ConnectHomeUSA extends affordable access to low-income families, ensuring that high-speed internet follows our children from their classrooms back to their homes.
 
 
 
