@@ -11,6 +11,28 @@ active: true
 layout: full-page
 ---
 
+# Digital Inclusion
+
+Today, participation in society relies on the ability to access and use the internet effectively.Whether applying for a job, doing homework, or starting a business, all our residents need digital skills, tools, and connectivity to fully participate in modern society. These factors are increasingly becoming the choke points that prevent thousands of our citizens from adapting to and accessing the benefits of a knowledge-driven, innovative economy.
+
+To promote digital inclusion in Louisville, Louisville Metro Government and over 10 partnering agencies, including the Louisville Metro Housing Authority, KentuckianaWorks and Louisville Free Public Library, have been working diligently to increase the equity of access to the internet and technology across the city. In May 2017, we released Louisville’s [Digital Inclusion Plan](https://digitalinclusion.louisvilleky.gov), a blueprint for substantially decreasing the digital divide in Louisville.
+
+This plan focuses on the following three [focus areas](http://digitalinclusion.louisvilleky.gov/our-focus-areas):
+
+* **Connectivity:** increasing home internet access
+* **Digital Skills:** teaching the necessary skills to use modern technology
+* **Hardware:** bringing computers (laptops and desktops) into homes
+
+To make progress on these plans, we have started projects such as:
+* Louisville Fiber Information Technology project, which is building fiber all over the Louisville Metro area
+* Low-cost internet sign-ups
+* A computer refurbishment program with Fern Creek High School
+* Created the PNC Gigabit Experience Center, an open-access community technology center in the Russell Neighborhood
+* Grow with Google digital skills training the Louisville Metro Housing Authority
+* ConnectHome USA with the Louisville Metro Housing Authority
+
+To learn more about this program, read our [Year 1 recap](https://medium.com/louisville-metro-opi2/digital-inclusion-impact-year-1-recap-b082131731f9)
+
 Our digital inclusion efforts focus on three areas of work: improving connectivity, teaching digital skills and providing hardware. We leverage a number of programs and relationship to further our commitment to decreasing digital inequity. This will enable us to improve the quality of life for our citizens by providing them with the digital tools and skills they need for success.
 
 o SpeedUpLouisville project SpeedUpLouisville.com collects user-generated information about local broadband service speeds, rates and service quality in our community. This tool will help citizens, businesses, policymakers and others better understand where Louisville residents can access high-quality Internet service, and where there are needs. Once collected, the data will be displayed on an interactive map and available for free download, with the goal of increasing transparency about Internet service quality in Louisville and to continue the conversation around fiber in our community.
