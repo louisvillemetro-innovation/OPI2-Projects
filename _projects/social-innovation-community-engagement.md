@@ -1,9 +1,9 @@
 ---
-title: Civic Technology
+title: Community Innovation & Engagement
 date: 2017-08-28 00:00:00 Z
-permalink: "/projects/civic-tech/"
+permalink: "/projects/community-innovation-engagement/"
 position: 3
-project_name: Civic Technology
+project_name: Community Innovation & Engagement
 subtitle: with Department of Information Technology
 excerpt: In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
 image_path: "/assets/img/projects/civic-tech/civic-tech.jpg"
@@ -21,7 +21,7 @@ National Civic Data of Hacking
 
 Smart Home / IOT Hackathon @ GEC
 
-Hack for Change Food Insecurity – Upcoming
+Hack for Change Food Insecurity
 
 Internal
 
