@@ -53,14 +53,15 @@ which is building fiber through out the Louisville Metro area
 ***
 
 ### ConnectHome USA
-![Image of the LFIT Project](/assets/img/projects/digital-inclusion/digital-inclusion.jpg)
+![Image of ConnectHome USA project](/assets/img/projects/digital-inclusion/digital-inclusion.jpg)
 With the Louisville Metro Housing Authority
 ***
 
 
-
 To learn more about this program, read our [Year 1 recap](https://medium.com/louisville-metro-opi2/digital-inclusion-impact-year-1-recap-b082131731f9)
 
+
+### Related News
 - https://louisvilleky.gov/news/russell-neighborhood-host-gigabit-experience-center
 - https://louisvilleky.gov/news/louisville-metro-housing-authority-selected-join-first-connecthome-nation-cohort
 - https://louisvilleky.gov/news/city-announces-website-measure-internet-speeds
