@@ -18,3 +18,14 @@ Some of our projects include:
 * Creating an Autonomous Vehicle Playbook
 * Creating tools using crowdsourced data to evaluate traffic congestion problem areas and traffic improvement projects
 * Developing a transportation focused data warehouse for all Metro related transportation data
+
+
+The Smart City will also be a platform for Advanced Traffic Systems (ATS) and Intelligent Traffic Systems (ITS), culminating in self-driving vehicles. To prepare Louisville Metro’s traffic control for the future, we are focused on data efforts.
+
+* Traffic data warehouse, with a focus on safety data, collaboration with area and state transportation organizations,
+* University of Pennsylvania's Data Analytics program.
+* Amazon City on a Cloud award to build a traffic data warehouse
+* Open Government Coalition - Governments pooling technical talent to collaborate on projects with reproducible results, saving time and money.  Allows funding of projects by vendors.  Includes Waze project and SpeedUp.
+* Waze CCP Processor – Open Source code collaboration to allow any city to use Waze data. Collaboration with Waze, Amazon, Boston, Philly, Chicago, LA, Denver and 55 governments, and used in Anchorage by Code for America.
+* USDOT Secure Data Commons partnership – Louisville is the development coordinator for their efforts to create a nation-wide transportation data management system for city and state govs to use.
+* Road Safety Plan
