@@ -11,6 +11,8 @@ active: true
 layout: full-page
 ---
 
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+
 ![Community hackathon](/assets/img/projects/community/community.jpg)
 
 The Office of Performance Improvement & Innovation views hackathons as a key component of our strategy to not only institutionalize innovation, but to connect with our citizens, the tech community and any of our project stakeholders. It is a critical piece of collaborative strategy in the generation of civic engagement, relationship building and problem solving. We have an open office hack night, once a month with our local Code for America chapter, the non-profit Civic Data Alliance, in addition to a quarterly capstone hackathon that encapsulates all of the previous quarter focus areas. This is in addition to nation-wide events, such as the National Civic Data of Hacking.
@@ -36,5 +38,3 @@ https://insiderlouisville.com/business/technology-business/hackathon-works-to-br
 https://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/
 http://datasmart.ash.harvard.edu/news/article/open-data-in-louisville-apps-hackathons-and-building-relationships-1076
 http://www.govtech.com/data/Louisville-Leverages-Crowdsourcing-for-Civic-Good.html
-
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }

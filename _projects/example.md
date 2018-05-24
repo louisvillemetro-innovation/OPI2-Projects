@@ -11,6 +11,8 @@ active: true
 layout: full-page
 ---
 
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas lacus in ipsum condimentum, vitae ornare ligula sollicitudin. Sed sed libero non nunc pharetra ullamcorper at nec nisi. Ut venenatis tincidunt libero, vitae ultrices sem. Nullam rhoncus tempus erat, vel pulvinar mauris. Nulla rhoncus in nisl et ultricies. Proin consectetur laoreet elit, a volutpat sapien congue sit amet. Sed id scelerisque massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam quis dolor aliquet, iaculis odio sed, accumsan ligula. Vivamus ligula nunc, feugiat pretium ullamcorper ac, ultrices eget felis. Duis vel orci at justo cursus viverra eget ut purus. Nulla facilisi. Ut eu diam semper orci dapibus dignissim. Pellentesque sed leo tortor.
 
 ### H3 Heading
@@ -27,7 +29,7 @@ Integer in lacus id velit fermentum pellentesque ullamcorper id metus. Proin imp
 
 Etiam convallis at mi a porttitor. [Curabitur non ornare turpis](https://louisvilleky.gov)
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+
 
 ### H3 Heading
 
@@ -37,7 +39,7 @@ Pellentesque iaculis justo sed ligula tincidunt aliquam. Nulla at consequat nequ
 
 Etiam convallis at mi a porttitor. [Curabitur non ornare turpis](https://louisvilleky.gov)
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+
 
 ### H3 Heading
 
@@ -48,5 +50,3 @@ Phasellus maximus ut dui quis tincidunt. Sed tincidunt laoreet felis, eu convall
 ![Image description text](http://via.placeholder.com/200){: .center-image }
 
 Etiam egestas, ligula id vehicula iaculis, mauris justo tempus purus, id laoreet sapien turpis sed sapien. Nam feugiat nunc tortor, varius facilisis sapien sollicitudin id. Donec vestibulum ligula quis odio efficitur porta. Etiam convallis at mi a porttitor. Curabitur non ornare turpis.
-
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }

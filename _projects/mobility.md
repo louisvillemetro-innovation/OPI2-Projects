@@ -11,6 +11,8 @@ active: true
 layout: full-page
 ---
 
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+
 ![Mobility is transforming](/assets/img/projects/smart-mobility/smart-mobility-1c.gif)
 
 The transportation sector is in a period of transformation. Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades. To help our organization embrace these changes and create the greatest benefit from them, we work with transportation organizations in Louisville Metro Government and our community to help them make plans for emerging technologies, build data tools for their daily work and continuous improvement, and build their workforce for these disruptive innovations.
