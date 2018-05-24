@@ -11,7 +11,9 @@ active: true
 layout: full-page
 ---
 
-The transportation sector is in a period of transformation. Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades. To help our organization embrace these changes and great the greatest benefit from them, we work with transportation organizations in Louisville Metro Government and our community to help them make plans for emerging techonologies, build data tools for their daily work and continuous improvement, and build their workforce for these disruptive innovations.
+![Mobility is transforming](/assets/img/projects/smart-mobility/smart-mobility-1c.gif)
+
+The transportation sector is in a period of transformation. Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades. To help our organization embrace these changes and create the greatest benefit from them, we work with transportation organizations in Louisville Metro Government and our community to help them make plans for emerging technologies, build data tools for their daily work and continuous improvement, and build their workforce for these disruptive innovations.
 
 Some of our projects include:
 * Developing a comprehensive Intelligent Transportation System modernization plan
@@ -29,3 +31,5 @@ The Smart City will also be a platform for Advanced Traffic Systems (ATS) and In
 * Waze CCP Processor – Open Source code collaboration to allow any city to use Waze data. Collaboration with Waze, Amazon, Boston, Philly, Chicago, LA, Denver and 55 governments, and used in Anchorage by Code for America.
 * USDOT Secure Data Commons partnership – Louisville is the development coordinator for their efforts to create a nation-wide transportation data management system for city and state govs to use.
 * Road Safety Plan
+
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }

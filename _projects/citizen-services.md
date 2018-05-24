@@ -27,6 +27,7 @@ As all citizens leverage and use technology platforms differently, we currently 
 
 [View available Alexa Skills on Amazon](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dalexa-skills&field-keywords=Louisville)
 
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
 
 ### IFTTT (digital services)
 
@@ -36,6 +37,7 @@ An open source project, freely available and licensed on GitHub. We have created
 
 Get your city started with IFTTT & [view the source code](https://github.com/LouisvilleMetro-Innovation) or get connected with [Smart Louisville](https://ifttt.com/smartlouisville)!
 
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
 
 ### American Printing House for the Blind, Beacon Project
 
@@ -48,3 +50,5 @@ This technology was recently promoted and demonstrated to an audience from the N
 ![beacon graphic](/assets/img/projects/citizen-services/beacon.png){: .center-image }
 
 In December 2017, the Louisville International Airport (SDF) became the first fully accessible airport to travelers who are blind or visually impaired and in January 2018, the Kentucky Center for the Arts became the first fully accessible performing arts venue to patrons who are blind or visually impaired.
+
+{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
