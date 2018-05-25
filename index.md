@@ -6,6 +6,3 @@ secondary_lede_markdown: Innovation is the foundation of Louisville Metro Govern
 current_project_tiles_headline: Current Projects
 past_project_tiles_headline: Past Projects
 ---
-
-
-Helping government become
