@@ -11,7 +11,9 @@ active: true
 layout: full-page
 ---
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C75" target="_blank">Follow this project</a>
+</div>{: .center-image }
 
 ![Smart city](/assets/img/projects/smart-city/smart-city-0.jpg)
 

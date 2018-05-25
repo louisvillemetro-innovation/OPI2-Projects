@@ -11,7 +11,9 @@ active: true
 layout: full-page
 ---
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C72" target="_blank">Follow this project</a>
+</div>{: .center-image }
 
 ![Mobility is transforming](/assets/img/projects/smart-mobility/smart-mobility-1c.gif)
 

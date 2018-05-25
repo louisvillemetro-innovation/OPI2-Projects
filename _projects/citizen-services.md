@@ -11,7 +11,9 @@ active: true
 layout: full-page
 ---
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C69" target="_blank">Follow this project</a>
+</div>{: .center-image }
 
 The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize open government data and put it in useful contextual applications for our citizens.
 

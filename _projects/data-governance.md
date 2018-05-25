@@ -11,7 +11,9 @@ active: true
 layout: full-page
 ---
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C70" target="_blank">Follow this project</a>
+</div>{: .center-image }
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas lacus in ipsum condimentum, vitae ornare ligula sollicitudin. Sed sed libero non nunc pharetra ullamcorper at nec nisi. Ut venenatis tincidunt libero, vitae ultrices sem. Nullam rhoncus tempus erat, vel pulvinar mauris. Nulla rhoncus in nisl et ultricies. Proin consectetur laoreet elit, a volutpat sapien congue sit amet. Sed id scelerisque massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam quis dolor aliquet, iaculis odio sed, accumsan ligula. Vivamus ligula nunc, feugiat pretium ullamcorper ac, ultrices eget felis. Duis vel orci at justo cursus viverra eget ut purus. Nulla facilisi. Ut eu diam semper orci dapibus dignissim. Pellentesque sed leo tortor.
 

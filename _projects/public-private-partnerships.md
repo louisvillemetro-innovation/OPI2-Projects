@@ -20,7 +20,9 @@ Arnold Foundation
 Google
 LMHA
 
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C73" target="_blank">Follow this project</a>
+</div>{: .center-image }
 
 ![CNet](/assets/img/projects/p3/cnet.gif)
 

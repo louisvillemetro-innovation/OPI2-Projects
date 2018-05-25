@@ -11,5 +11,3 @@ image_path: "/assets/img/projects/vacant-and-abandoned-properties/vap.jpg"
 active: false
 layout: full-page
 ---
-
-{% include button.html button_text="Follow this project" button_url="https://google.com" %}{: .center-image }
