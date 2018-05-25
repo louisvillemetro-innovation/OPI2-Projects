@@ -23,11 +23,11 @@ The Smart City will also be a platform for Advanced Traffic Systems (ATS) and In
 
 
 
-### Creating modern policy and modernization plans
+### Creating smart mobility policy and modernization plans
 
 ![Policy & Plans](/assets/img/projects/smart-mobility/smart-mobility-2.jpg)
 
-  * Autonomous Vehicle Playbook
+  * [Autonomous Vehicle Playbook](/assets/docs/smart-mobility/AV_Playbook_-_LLT_Draft.pdf) **Seeking Public Comments**
   * Intelligent Transportation System Plan
   * Road Safety Plan
 
@@ -45,7 +45,6 @@ Governments pooling technical talent to collaborate on projects with reproducibl
   * University of Pennsylvania's Predictive Data Analytics program.
   * Waze CCP Processor – Open Source code collaboration to allow any city to use Waze data. Collaboration with Waze, Amazon, Boston, Philly, Chicago, LA, Denver and 55 governments, and used in Anchorage by Code for America.
   * USDOT Secure Data Commons partnership – Louisville is the development coordinator for their efforts to create a nation-wide transportation data management system for city and state govs to use.
-
 
 ### Data Warehouse
 
