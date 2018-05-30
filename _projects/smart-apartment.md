@@ -5,7 +5,7 @@ permalink: "/projects/cnet-smart-apartment/"
 position: 1
 project_name: CNET Smart Apartment
 subtitle: with Louisville Metro residents
-excerpt: Our example projects are open sourced, community driven and cutting edge.
+excerpt: Where we explore the intersection of the smart city with the smart home.
 image_path: "/assets/img/projects/smart-apartment/smartaptpromophotos-11.jpg"
 active: true
 layout: full-page
