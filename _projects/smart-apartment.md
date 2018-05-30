@@ -11,11 +11,6 @@ active: true
 layout: full-page
 ---
 
-<div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://google.com" target="_blank">Follow this project</a>
-</div>{: .center-image }
-
-
 <img align="left" src="/assets/img/projects/p3/cnet.jpg"> CNet's Urban Smart Home is a 1,400 square foot apartment that CNET has filled with the latest technology to automate living spaces and connect them with data that can put them in the fast lane for the digital age. It's a natural extension of the CNET Smart Home, a suburban showcase home in Louisville that CNET owns and has been using to test and report on the latest home tech for the past several years.
 
 ![Smart Apartment](/assets/img/projects/smart-apartment/smartaptpromophotos-11.jpg)
