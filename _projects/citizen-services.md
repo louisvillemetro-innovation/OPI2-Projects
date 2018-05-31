@@ -21,6 +21,8 @@ The future of the Smart City is constantly being redefined, and by extension our
 
 ![digital assistants](/assets/img/projects/citizen-services/assistants.png)
 
+<iframe src="https://www.cnet.com/videos/share/how-a-kentucky-city-connects-to-the-cnet-smart-apartment/" width="825" height="400" frameBorder="0" seamless="seamless" allowFullScreen></iframe>
+
 Our citizen's expectations are being set by the pace and responsiveness of private industry. The future of government is not behind paper forms, or labyrinth processes but instead the future of our government is ubiquitous service and availability. The citizen expectation is to be able to solve their problems quickly, efficiently and with as little energy as possible.
 
 To accomplish this effort, the Office of Civic Innovation is experimenting with several Smart Assistants, and Voice User Interfaces (VUIs). By engaging with our local Code for America chapter, the Civic Data Alliance, we have created a number of community developed skills, primarily for (but not limited to) the Amazon Alexa digital assistant. This allows us to experiment with voice interaction, a new channel for digital citizen services.

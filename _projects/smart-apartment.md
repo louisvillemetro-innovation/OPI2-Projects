@@ -17,4 +17,6 @@ layout: full-page
 
 The best part of CNET's approach is that it's not focused on technology for the rich-and-famous. Instead, it's testing off-the-shelf tech that anyone can find at a local retailer and integrate into their living space.
 
+<iframe src="https://www.cnet.com/videos/share/louisville-mayor-greg-fischer-discusses-smart-cities-at-ces-2017/" width="825" height="400" frameBorder="0" seamless="seamless" allowFullScreen></iframe>
+
 The Office of Civic Innovation smart city initiatives aren't just focused on internal initiatives like making gigantic buildings more energy efficient. Rather, it has focused its efforts on things that have a direct impact on the community, such as crowd-sourced air quality studies, crowd-sourced bandwidth speed testing across the community, and a partnership with Waze to help manage traffic congestion with data.
