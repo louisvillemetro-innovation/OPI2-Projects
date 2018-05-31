@@ -30,7 +30,7 @@ Our Smart City strategy aims to enhance the abilities of public service employee
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/BLg_3GLAB0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Goals
+## Smart City Goals
 
 ### Mobility
 We will help solve systemic travel and safety issues for vehicles, pedestrians, bicycles, while embracing emerging technologies like autonomous vehicles, electric vehicles, and bus rapid transit

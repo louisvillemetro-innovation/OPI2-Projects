@@ -31,7 +31,7 @@ The Smart City will also be a platform for Advanced Traffic Systems (ATS) and In
   * Intelligent Transportation System Plan
   * Road Safety Plan
 
-<script type='text/javascript' src='https://WDRB.images.worldnow.com/interface/js/WNVideo.js?rnd=745266685;hostDomain=www.wdrb.com;playerWidth=630;playerHeight=355;isShowIcon=true;clipId=14387005;flvUri=;partnerclipid=;adTag=News;advertisingZone=;enableAds=true;landingPage=;islandingPageoverride=;playerType=STANDARD_EMBEDDEDscript;controlsType=overlay'></script><a href='https://www.wdrb.com' title='WDRB 41 Louisville News'>WDRB 41 Louisville News</a>
+
 
 ### Open Government Coalition
 
@@ -53,3 +53,6 @@ Governments pooling technical talent to collaborate on projects with reproducibl
 ![Data Warehouse](/assets/img/projects/smart-mobility/smart-mobility-6.jpg)
 
 * Developing a transportation focused data warehouse for all Metro related transportation data with a focus on safety data, in collaboration with area and state transportation organizations
+
+Related News:
+- [Autonomous Vehicle News Coverage]( http://www.wdrb.com/story/38312611/hoping-to-get-on-forefront-of-new-technology-louisville-prepares-for-self-driving-cars)
