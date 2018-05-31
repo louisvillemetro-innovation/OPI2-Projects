@@ -34,6 +34,7 @@ The Office of Performance Improvement & Innovation views hackathons as a key com
 
 
 ### Press
+- [Holy Smokes Hackathon](https://www.cnet.com/news/city-works-with-hackers-to-build-a-smoke-detector-for-vacant-homes/)
 - [Join the IoT Hackathon](https://insiderlouisville.com/metro/vision/join-the-iot-hackathon/)
 - [Public Safety](https://insiderlouisville.com/business/technology-business/hackathon-works-to-bring-new-public-safety-tools-to-louisville/)
 - [Open Data Hackathon](https://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)

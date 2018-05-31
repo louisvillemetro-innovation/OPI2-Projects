@@ -15,11 +15,15 @@ layout: full-page
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C7" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FLouMetroRCS%2Fvideos%2F1662649410479157%2F&width=825&show_text=false&appId=355918357881792&height=411" width="825" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
 Today, participation in society relies on the ability to access and use the Internet. Whether applying for a job, doing homework, or starting a business, all of our residents need digital skills, tools, and connectivity to fully participate and engage in modern society. These factors are increasingly becoming the choke points that prevent thousands of our citizens from engaging and accessing the benefits of a knowledge-driven, innovative economy.
 
 To promote digital inclusion in Louisville, Louisville Metro Government and over 10 partnering agencies, including the Louisville Metro Housing Authority, KentuckianaWorks and Louisville Free Public Library, have been working diligently to increase the equity of access to the Internet and technology across the city. In May 2017, we released Louisville’s [Digital Inclusion Plan](https://digitalinclusion.louisvilleky.gov), a blueprint for decreasing the digital divide in Louisville.
 
 Our digital inclusion efforts focus on three areas of work: improving connectivity, teaching digital skills and providing hardware. We leverage programs and relationships to further our commitment to decreasing digital inequity. This will enable us to improve the quality of life for our citizens by providing them with the digital tools and skills they need for success.
+
+<iframe width="825" height="400" src="https://www.youtube.com/embed/UhhHnjpLgXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Read more about the three [focus areas](http://digitalinclusion.louisvilleky.gov/our-focus-areas):
 
@@ -37,12 +41,15 @@ To make progress on these plans, we have started projects such as:
 
 
 
-### Internet Signups, Hardware & Skills
+### Internet Signups and Skills
 
 ![Image of Internet Signup Event](/assets/img/projects/digital-inclusion/digital-inclusion-6.jpg)
 
 The civic innovation team has been attending back-to-school events, and other community gatherings in an effort to sign up our citizens for already existing, but poorly publicized low cost Internet plans from ISP that operate in the Louisville area. To date 386 households have been signed up, with a target of 500. This initiative also utilizes cleaned & refurbished donated computers from local businesses to get these households reliable access to a computer. Additionally, we are forming partnerships with local and national technology companies to create a digital skills training program, to educate households that need assistance in utilizing these technologies.
 
+### Computer Refurbishment
+
+<iframe width="825" height="400" src="https://www.youtube.com/embed/vx2YqDLSVfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### PNC Gigabit Experience Center
