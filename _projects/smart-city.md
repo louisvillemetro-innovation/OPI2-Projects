@@ -20,7 +20,7 @@ layout: full-page
 ### What is a Smart City?
 As a city, we should have a say in how technology fits into our community, and not the other way around. Technology should help us reach our goals of economic growth, compassion, equity, and efficiency. It should not confuse or hinder our progress.
 
-<iframe width="1856" height="777" src="https://www.youtube.com/embed/p2tqQQjNLOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="825" height="400" src="https://www.youtube.com/embed/p2tqQQjNLOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This plan will be a living strategy document, updated annually, that helps Louisville Metro Government shape and guide the technological transformation of both our government and community as we build our Smart City. This will allow our government and community to adapt to and plan for changes in technology and emerging trends.
 
