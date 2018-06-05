@@ -2,7 +2,7 @@
 title: Data Governance
 date: 2018-06-04 00:00:00 Z
 permalink: "/projects/data-governance/"
-position: 4
+position: 3
 project_name: Data Governance
 subtitle: with all Metro departments
 excerpt: The cross-departmental Data Governance team includes 40+ Metro employees that work with data and represent every city department. The team receives trainings, creates policy, shares data, and manages open data. 
@@ -25,7 +25,7 @@ Members do data analysis for their departments and across Metro, including on mo
 
 Curriculum, training, and presentations for members on topics around the data lifecycle, including quality, collection, storage, metadata, visualization, business intelligence, ethics, and standards.  We also have a Data Academy on beginner and advanced usage of tools like Excel, Power BI, Carto, Tableau, GIS, and other open source data visualization tools. 
 
-Our goal to institutionalize innovation has led to creating and [Analog Hackathon](https://medium.com/louisville-metro-opi2/analog-hackathons-engagement-and-ideas-without-tech-86b2a78f2473) curriculum, having an [internal hackathon](https://medium.com/louisville-metro-opi2/waze-louisvilles-first-internal-hackathon-647363a85392) around Waze data, and helping organize external hackathons like [Open Data Day](https://medium.com/louisville-metro-opi2/louisvilles-open-data-day-public-safety-alexa-firearms-e09fec2f6f7e).
+Our goal to institutionalize innovation has led to creating an [Analog Hackathon](https://medium.com/louisville-metro-opi2/analog-hackathons-engagement-and-ideas-without-tech-86b2a78f2473) curriculum, having an [internal hackathon](https://medium.com/louisville-metro-opi2/waze-louisvilles-first-internal-hackathon-647363a85392) around Waze data, and helping organize external hackathons like [Open Data Day](https://medium.com/louisville-metro-opi2/louisvilles-open-data-day-public-safety-alexa-firearms-e09fec2f6f7e).
 
 ### Open Data
 
