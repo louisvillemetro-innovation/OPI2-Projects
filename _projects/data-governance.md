@@ -6,7 +6,7 @@ position: 4
 project_name: Data Governance
 subtitle: with all Metro departments
 excerpt: The cross-departmental Data Governance team includes 40+ Metro employees that work with data and represent every city department. The team receives trainings, creates policy, shares data, and manages open data. 
-image_path: "/assets/img/projects/data-governance/data_governance_hackathon.jpg"
+image_path: "/assets/img/projects/data-governance/data-governance-waze-hackathon.jpg"
 active: true
 layout: full-page
 ---
@@ -15,12 +15,11 @@ layout: full-page
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C70" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
-The cross-departmental Data Governance team includes 40+ Metro employees that work with data and represent every city department.  The team receives trainings, creates policy, shares data, and manages open data.  Members are recommended as a result of the mayor's [Open Data Executive Order](https://data.louisvilleky.gov/mayor-fischers-open-data-executive-order) (Section 3) and the [Open Data Policy](https://data.louisvilleky.gov/open-data-policy) (3.1.2).  
+The cross-departmental Data Governance team includes 40+ Metro employees that work with data and represent every city department and has built a data-driven culture across the city, breaking down silos and fostering collaboration.  The team receives trainings, creates policy, shares data, and manages open data.  Members are recommended as a result of the mayor's [Open Data Executive Order](https://data.louisvilleky.gov/mayor-fischers-open-data-executive-order) (Section 3) and the [Open Data Policy](https://data.louisvilleky.gov/open-data-policy) (3.1.2) and the team is lead by the city's Data Officer.  
 
 Members do data analysis for their departments and across Metro, including on mobility data, LouieStat, budget and finance, crime and public safety, economic development, public works, GIS, health, the mayor's office, and air pollution control.
 
-![Data governance year end meeting](/assets/img/projects/data-governance/data-governance-0.jpg)
-
+![Data governance analog hackathon](/assets/img/projects/data-governance/data_governance_hackathon.jpg)
 
 ### Data Training
 
@@ -29,8 +28,12 @@ Curriculum, training, and presentations for members on topics around the data li
 ### Open Data
 
 Open data, public transparency, and data-driven efforts in Louisville remain a strong and continuing priority for Mayor Greg
-Fischer and the Office of Civic Innovation.  The Data Governance team will continue to release new data the public values, improve existing data
-sets, provide accurate metadata, and increase the frequency of data updates through the city's [Open Data Platform](https://data.louisvilleky.gov). 
+Fischer and the Office of Civic Innovation.  The Data Governance team works to release new data the public values, improve existing data
+sets, provide accurate metadata, and increase the frequency of data updates. 
+
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov" target="_blank">Open Data Platform</a>
+</div>{: .center-image }
 
 ### Working Groups
 
