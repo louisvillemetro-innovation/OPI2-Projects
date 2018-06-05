@@ -23,7 +23,9 @@ Members do data analysis for their departments and across Metro, including on mo
 
 ### Data Training
 
-Curriculum, training, and presentations for members on topics around the data lifecycle, including quality, collection, storage, metadata, visualization, business intelligence, ethics, and standards.  We also train on the beginning and advanced usage of tools like Excel, Power BI, Carto, Tableau, GIS, and other open source data visualization tools.
+Curriculum, training, and presentations for members on topics around the data lifecycle, including quality, collection, storage, metadata, visualization, business intelligence, ethics, and standards.  We also have a Data Academy on beginner and advanced usage of tools like Excel, Power BI, Carto, Tableau, GIS, and other open source data visualization tools. 
+
+Our goal to institutionalize innovation has led to creating and [Analog Hackathon](https://medium.com/louisville-metro-opi2/analog-hackathons-engagement-and-ideas-without-tech-86b2a78f2473) curriculum, having an [internal hackathon](https://medium.com/louisville-metro-opi2/waze-louisvilles-first-internal-hackathon-647363a85392) around Waze data, and helping organize external hackathons like [Open Data Day](https://medium.com/louisville-metro-opi2/louisvilles-open-data-day-public-safety-alexa-firearms-e09fec2f6f7e).
 
 ### Open Data
 
@@ -32,7 +34,7 @@ Fischer and the Office of Civic Innovation.  The Data Governance team works to r
 sets, provide accurate metadata, and increase the frequency of data updates. 
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov" target="_blank">Open Data Platform</a>
+<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov" target="_blank">Open Data Site</a>
 </div>{: .center-image }
 
 ### Working Groups
@@ -45,4 +47,8 @@ The city's official internal data inventory of data sources and data sets run by
 
 ### Louisville Badges
 
-The city of Louisville has a [Badge reward program](https://louisvilleky.gov/government/performance-improvement-innovation/louisville-metro-badges) that allows employees to earn badges by doing data-driven and innovative work, much like the Girl Scouts.   The goal is to encourage Metro employees across all agencies to learn new skills and to be better equipped to serve our citizens.
+The city of Louisville has a [Badge reward program](https://www.badgelist.com/Louisville-Metro-Badges) that allows employees to earn badges by doing data-driven and innovative work, much like the Girl Scouts.   The goal is to encourage Metro employees across all agencies to learn new skills and to be better equipped to serve our citizens.
+
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://louisvilleky.gov/government/performance-improvement-innovation/louisville-metro-badges" target="_blank">Badge Site</a>
+</div>{: .center-image }
