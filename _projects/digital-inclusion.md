@@ -15,6 +15,8 @@ layout: full-page
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C7" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
+![Image of Internet Signup Event](/assets/img/projects/digital-inclusion/digital-inclusion-6.jpg)
+
 Today, participation in society relies on the ability to access and use the Internet. Whether applying for a job, doing homework, or starting a business, all of our residents need digital skills, tools, and connectivity to fully participate and engage in modern society. These factors are increasingly becoming the choke points that prevent thousands of our citizens from engaging and accessing the benefits of a knowledge-driven, innovative economy.
 
 To promote digital inclusion in Louisville, Louisville Metro Government and over 10 partnering agencies, including the Louisville Metro Housing Authority, KentuckianaWorks and Louisville Free Public Library, have been working diligently to increase the equity of access to the Internet and technology across the city. In May 2017, we released Louisville’s [Digital Inclusion Plan](https://digitalinclusion.louisvilleky.gov), a blueprint for decreasing the digital divide in Louisville.
@@ -40,9 +42,7 @@ Our digital inclusion efforts focus on three areas of work: improving connectivi
 
 ### Internet Signups and Skills
 
-![Image of Internet Signup Event](/assets/img/projects/digital-inclusion/digital-inclusion-6.jpg)
-
-The civic innovation team has been attending back-to-school events, and other community gatherings in an effort to sign up our citizens for already existing, but poorly publicized low cost Internet plans from ISP that operate in the Louisville area. To date 386 households have been signed up, with a target of 500. This initiative also utilizes cleaned & refurbished donated computers from local businesses to get these households reliable access to a computer. Additionally, we are forming partnerships with local and national technology companies to create a digital skills training program, to educate households that need assistance in utilizing these technologies.
+The civic innovation team has been attending back-to-school events, and other community gatherings in an effort to sign up our citizens for already existing, but poorly publicized low cost Internet plans from ISP that operate in the Louisville area. To date, we have signed up 420 households for low-cost service. This initiative also utilizes cleaned & refurbished donated computers from local businesses to get these households reliable access to a computer. Additionally, we are forming partnerships with local and national technology companies to create a digital skills training program, to educate households that need assistance in utilizing these technologies.
 
 ### Computer Refurbishment
 To help bridge the hardware gap in Louisville, we started a computer donation and refurbishment program in partnership with the Louisville Metro Housing Authority (LMHA) and Jefferson County Public Schools. The program accepts used laptop and desktop computers from local corporations. Fern Creek High School Computer Science students then refurbish the computers so they can be distributed to fellow students in need, HUD-assisted housing residents, and Louisville Metro Digital Inclusion partners.
