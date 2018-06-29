@@ -68,10 +68,9 @@ A public private partnership with PNC Bank that resulted in the creation an open
 
 
 ### Grow with Google digital skills training
-  
-  
-![Image of the PNC Gigabit Experience Center](/assets/img/projects/digital-inclusion/digital-inclusion-7.jpg)
-With the Louisville Metro Housing Authority
+    
+![Grow with Google digital skills training](/assets/img/projects/digital-inclusion/digital-inclusion-7.jpg)
+
 
 In partnership with Google Fiber & the Louisville Metro Housing Authority, we conduct one-on-one digital skills trainings for our residents. These trainings focus on the participants digital literacy needs. They aim to get them more comfortable using a computer and establish an online prescene on the Google Suite. 
 
@@ -83,10 +82,7 @@ In partnership with Google Fiber & the Louisville Metro Housing Authority, we co
 LFIT is the Louisville Metro Information Technology project and is a partnership with KentuckyWired, the Commonwealth’s project to connect all 120 counties through middle mile fiber infrastructure. This project will expand our fiber network by over 400% at a third of full costs and will both directly and indirectly improve quality of life in our community. The fiber will be used to improve (and lower the cost of) internet service for residents, support government buildings and services, and reduce the digital divide.
 
 
-
 ### ConnectHome USA
-
-![Image of ConnectHome USA project](/assets/img/projects/digital-inclusion/digital-inclusion.jpg)
 
 ConnectHomeUSA (formerly ConnectHome Nation) is a movement to bridge the digital divide for HUD-assisted housing residents in the United States under the leadership of national nonprofit EveryoneOn. By helping residents in participating communities to get connected at home and providing access to digital literacy and educational content, we aim to make public housing a platform for change. ConnectHomeUSA creates a platform for community leaders, local governments, nonprofit organizations, and private industry to join together and produce locally-tailored solutions for narrowing the digital divide. Through these stakeholders’ specific commitments to provide free or low-cost broadband access, devices, and digital literacy training, ConnectHomeUSA extends affordable access to low-income families, ensuring that high-speed internet follows our children from their classrooms back to their homes.
 
