@@ -30,7 +30,7 @@ To get to our Smart Mobility future, we have to know where we going. We lead cro
 **Mobility Innovation Team (MIT)**
 * Few things fundamentally affect the nature, feel, and operation of a city like its transportation system. Decisions about it affect nearly every facet of the community, and so, it is crucial to Louisville’s future that as major changes emerge, Metro will stand ready to make the most informed decisions possible. The MIT is a cross-organizational team that helps local organizations learn, prepare for, and implement innovative technologies and practices into our transportation network.
   
-**[Autonomous Vehicle Playbook](/assets/docs/smart-mobility/AV_Playbook_-_LLT_Draft.pdf)**
+**[Autonomous Vehicle Playbook](https://av.louisvilleky.gov)**
 * Based on the level of testing underway and a raft of announcements from car makers and mobility providers, the commercial availability of autonomous vehicles (AVs) seems imminent. While projections of how, and how quickly, the technology will be adopted are still being debated, the potential for AVs to have a dramatic impact on how people and goods move to, from, and around makes for a compelling case to begin research and work toward the adoption of a policy framework that prepares for this technological shift while ensuring that mobility is enhanced in an equitable manner for all of Louisville’s residents.
   
 **Intelligent Transportation System Plan**
