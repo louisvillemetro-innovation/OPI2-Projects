@@ -23,7 +23,7 @@ defaults:
 email: ipoall@louisvilleky.gov
 description: 'The Louisville Metro Innovation Team was established in 2011 as part of the pioneer cohort of Bloomberg innovation teams. Some of our initiatives include the CNET Smart Apartment, which allows us to test how the Smart City and the Smart Home will interact, Waze Data Partnership, which allows us to understand the real-time and historical traffic issues in our community, and Digital Inclusion, which seeks to increase equity in regards to access to technology and the internet.'
 baseurl:
-url: http://projects.lsvll.io
+url: https://projects.lsvll.io
 twitter:
   username: OPI2Lou
 medium_url: https://medium.com/louisville-metro-opi2
