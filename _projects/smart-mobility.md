@@ -15,7 +15,7 @@ layout: full-page
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C72" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
-![Mobility is transforming](/assets/img/projects/smart-mobility/smart-mobility-1c.gif)
+![Mobility is transforming](/assets/img/projects/smart-mobility/smart-mobility-1d.gif)
 
 The transportation sector is in a period of transformation. Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades. To help our organization embrace these changes and create the greatest benefit from them, we work with transportation organizations in Louisville Metro Government and our community to help them make plans for emerging technologies, build data tools for their daily work and continuous improvement, and build their workforce for these disruptive innovations.
 
