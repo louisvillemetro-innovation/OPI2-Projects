@@ -1,6 +1,8 @@
 ---
 title: LouieLab
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/louielab"
 lede_markdown: LouieLab is a civic innovation hub for public-private collaboration, and coworking space that features an open office. It is a physical manifestation of continuous improvement and innovation that are the foundation of Louisville Metro Government.
 ---
 

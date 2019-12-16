@@ -8,7 +8,9 @@ subtitle: with Louisville Metro residents
 excerpt: Our digital inclusion efforts focus on three areas of work. Improving connectivity, teaching digital skills and providing hardware.
 image_path: "/assets/img/projects/digital-inclusion/digital-inclusion.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/digital-inclusion"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">

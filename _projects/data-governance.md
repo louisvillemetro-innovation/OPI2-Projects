@@ -8,7 +8,9 @@ subtitle: with all Metro departments
 excerpt: The cross-departmental Data Governance team includes 40+ Metro employees that work with data and represent every city department. The team receives trainings, creates policy, shares data, and manages open data. 
 image_path: "/assets/img/projects/data-governance/data-governance-waze-hackathon.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/data-governance"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
