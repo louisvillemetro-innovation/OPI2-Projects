@@ -8,7 +8,9 @@ subtitle: with Louisville Metro residents
 excerpt: Technology and data are changing the way that people and goods are moving in our community, and we expect this transformation to continue for decades.
 image_path: "/assets/img/projects/smart-mobility/smart-mobility.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/mobility"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
