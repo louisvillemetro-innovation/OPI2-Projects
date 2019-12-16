@@ -8,7 +8,9 @@ subtitle: with Louisville Metro residents
 excerpt: Our digital services work is open sourced, community driven and cutting edge.
 image_path: "/assets/img/projects/citizen-services/digital-services.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/citizen-services"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
