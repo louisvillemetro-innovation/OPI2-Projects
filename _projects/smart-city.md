@@ -8,7 +8,9 @@ subtitle: with Department of Information Technology
 excerpt: In order to prepare for Louisville’s Smart City future, we are making investments in foundational infrastructure and implementing technologies through public-private partnerships.
 image_path: "/assets/img/projects/smart-city/smart-city.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/smart-city"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
