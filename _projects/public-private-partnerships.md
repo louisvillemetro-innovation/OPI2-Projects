@@ -8,7 +8,9 @@ subtitle: Building the foundation of new government
 excerpt: "The future of the Smart City is constantly being redefined, and by extension our relationship with citizens."
 image_path: "/assets/img/projects/smart-apartment/rentersguide20.jpg"
 active: true
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/citizen-services"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
