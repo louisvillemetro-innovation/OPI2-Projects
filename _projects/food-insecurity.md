@@ -10,7 +10,7 @@ image_path: "/assets/img/projects/food-insecurity/hunger.jpg"
 active: false
 layout: redirected
 sitemap: false
-redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/"
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/civic-innovation"
 ---
 
 The Healthy Food for All Hackathon was held on Saturday, February 17th, 2018 at the PNC Gigabit Experience Center in Louisville Central Community Center’s Old Walnut Street building. The event brought approximately 70 civic innovators and dozens of engaged youth together to brainstorm solutions for Louisville’s food access resources.
