@@ -1,6 +1,8 @@
 ---
 title: Homepage
-layout: home
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/civic-innovation"
 secondary_headline: Innovation Projects
 secondary_lede_markdown: Innovation is the foundation of Louisville Metro Government, and so is the belief in the problem-solving power of collaboration among citizens, businesses and their government. The Office of Civic Innovation is the manifestation of our commitment to these principles.
 current_project_tiles_headline: Current Projects
